@@ -1,0 +1,33 @@
+@charset "utf8";
+
+.section-padding{
+    padding: 3rem 0;
+}
+.lotation h1{
+    margin-bottom: 2rem;
+}
+.lotation{
+    max-width: 100%;
+}
+.lotation .wrap-g{
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+@media screen and ( min-width: 370px ){
+}
+
+@media screen and ( min-width: 992px){
+}
+
+@media screen and ( min-width: 1200px){
+    .lotation .wrap-g{
+        margin: 0 2rem;
+    }
+}
+
+@media screen and ( min-width: 1366px){
+}
+
+@media screen and ( min-width: 1920px){
+}

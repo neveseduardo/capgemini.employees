@@ -1,0 +1,119 @@
+@charset "utf8";
+
+@font-face{
+    font-family: 'Allura-Regular';
+    src:url('fonts/Allura-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway-Thin';
+    src: url('fonts/Raleway-Thin.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway-Light';
+    src: url('fonts/Raleway-Light.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway-Regular';
+    src: url('fonts/Raleway-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway-Medium';
+    src: url('fonts/Raleway-Medium.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway-Bold';
+    src: url('fonts/Raleway-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway-ExtraBold';
+    src: url('fonts/Raleway-ExtraBold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway-Black';
+    src: url('fonts/Raleway-Black.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('fonts/Roboto-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url('fonts/Roboto-Black.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-Thin';
+    src: url('fonts/Roboto-Thin.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Quartzo';
+    src: url('fonts/quartzo.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Quicksand-Bold';
+    src: url('fonts/Quicksand-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Quicksand-Regular';
+    src: url('fonts/Quicksand-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lobster-Regular';
+    src: url('fonts/Lobster-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Signika-Bold';
+    src: url('fonts/Signika-Bold.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Signika-Regular';
+    src: url('fonts/Signika-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Signika-Semibold';
+    src: url('fonts/Signika-Semibold.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
